@@ -9,6 +9,7 @@ import Navbar from "./components/Navbar";
 import NotFoundPage from "./pages/NotFoundPage";
 
 function App() {
+  // hello
   return (
     <div className="App">
       <Navbar />
